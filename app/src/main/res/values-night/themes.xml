@@ -1,0 +1,7 @@
+<resources>
+    <style name="Base.Theme.ScrollView" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/modra</item>
+        <item name="colorAccent">@color/roza</item>
+        <item name="android:windowBackground">@color/white</item>
+    </style>
+</resources>
