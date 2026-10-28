@@ -17,7 +17,7 @@ Projekt je bil razvit v okolju Android Studio kot del šolske naloge pri predmet
 
 ### Prikaz članka
 
-![ScrollingText - prikaz članka](screenshots/scrolling-text.png)
+<img src="screenshots/scrolling-text.png" width="300" alt="Prikaz članka">
 
 ## Uporabljene tehnologije
 
